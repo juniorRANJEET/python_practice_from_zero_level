@@ -1,0 +1,6 @@
+#list in list
+#nested list
+veg = ["aalu", "gobhi", "bhindi"]
+fru = ["aam","kela","angoor"]
+container= [veg,fru]
+print(container)
